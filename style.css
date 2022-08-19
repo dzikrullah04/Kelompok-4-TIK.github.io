@@ -1,0 +1,19 @@
+h1 {
+    color: #eaeaea;
+    /* padding-top: 500px; */
+}
+
+.konten {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    
+}
+
+.foto {
+    height: 45PX;
+    width: 45PX;
+/* padding: 0; */
+    /* background-color: red; */
+}
